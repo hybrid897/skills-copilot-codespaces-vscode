@@ -55,4 +55,4 @@ const server = http.createServer((req, res) => {
   });
   res.write('</ul>');
   res.write('</body>');
-  res.write('</html
+  res.write('</html');
